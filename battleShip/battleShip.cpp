@@ -7,6 +7,8 @@
 int main()
 {
 int n;    cin>>n; cout>>n;
+
+//TE ROG EU FRUMOS MERGI
     return 0;
 }
 
